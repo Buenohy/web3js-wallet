@@ -6,6 +6,7 @@ export default function Home() {
         <h3>Wallet</h3>
         <h3>From</h3>
         <h3>To</h3>
+        <h3>Block</h3>
       </div>
     </div>
   );
